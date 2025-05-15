@@ -71,8 +71,9 @@ Contexts used for maintaining conversation flow
 
 Fulfillment URL points to FastAPI server (/ endpoint)
 
-📸 Screenshots
-Chatbot UI	Backend Console
+
+
+SOURCE OF LEARNING:
 
 🧾 Credit
 Tutorial Source:
